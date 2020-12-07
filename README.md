@@ -1,6 +1,5 @@
 # Analyzing Trends in the Tropical Pacific
 #### Max Elling
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mte2112/rces-final-project/HEAD)
 
 ##### Summary:
 
@@ -13,3 +12,5 @@ I used a similar approach to Deser to analyze trends in SST, SLP, cloudiness, an
 - ICOADS 2 Degree Monthly Sea Level Pressure (1900 - 2020)
 - NOAA ERSST v5 Monthly Mean SST (1920 - 2020)
 - Palmer Drought Severity Index (PDSI) (1950-2014)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mte2112/rces-final-project/HEAD)
