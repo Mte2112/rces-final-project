@@ -3,7 +3,8 @@
 #### Max Elling
 
 
-##### Question: Are trends in the tropical Pacific signaling a slowing Walker Circulation?
+##### Question: 
+Are trends in the tropical Pacific signaling a slowing Walker Circulation?
 ##### Summary:
 
 This was inspired by Clara Deser's 2010 paper "Twentieth century Tropical sea surface temperature trends revisited." Deser provides an analysis of trends in SST, SLP, cloudiness, and precipitation over the Tropical Pacific in the 20th century. The data provides evidence of a weakening Walker Circulation.
