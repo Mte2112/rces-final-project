@@ -1,5 +1,5 @@
 # Analyzing Trends in the Tropical Pacific
-##### Max Elling
+#### Max Elling
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mte2112/rces-final-project/HEAD)
 
 ##### Summary:
