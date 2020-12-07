@@ -1,5 +1,6 @@
 # Analyzing Trends in the Tropical Pacific
-#### Max Elling
+#### Fall 2020 RCES Final Project
+##### Max Elling
 
 ##### Summary:
 
