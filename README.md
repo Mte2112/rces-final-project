@@ -2,6 +2,9 @@
 #### Fall 2020 RCES Final Project
 #### Max Elling
 
+#### Neutral Phase of Walker Circulation
+<img src="github/rces-final-project/rces-final-project/mean-state-walker.png" width = "800" />
+Source: Commonwealth of Australia 2020, Bureau of Meteorology 
 
 ##### Question: 
 Are trends in the tropical Pacific signaling a slowing Walker Circulation?
