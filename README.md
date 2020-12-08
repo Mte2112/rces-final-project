@@ -2,8 +2,7 @@
 #### Fall 2020 RCES Final Project
 #### Max Elling
 
-#### Neutral Phase of Walker Circulation
-<img src="github/rces-final-project/rces-final-project/mean-state-walker.png" width = "800" />
+![Neutral Phase of Walker Circulation](github/rces-final-project/rces-final-project/mean-state-walker.png)
 Source: Commonwealth of Australia 2020, Bureau of Meteorology 
 
 ##### Question: 
