@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mte2112/rces-final-project/HEAD)
 # Analyzing Trends in the Tropical Pacific
 #### Fall 2020 RCES Final Project
 #### Max Elling
@@ -16,4 +17,4 @@ I used a similar approach to Deser to analyze trends in SST, SLP, cloudiness, an
 - NOAA ERSST v5 Monthly Mean SST (1920 - 2020)
 - Palmer Drought Severity Index (PDSI) (1950-2014)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mte2112/rces-final-project/HEAD)
+
