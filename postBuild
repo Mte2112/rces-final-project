@@ -1,3 +1,5 @@
-wget -q -O url_sst "ftp://ftp.cdc.noaa.gov/Datasets/noaa.ersst.v5/sst.mnmean.nc"
-
+wget -q -O url_sst "https://www.esrl.noaa.gov/psd/thredds/dodsC/Datasets/noaa.ersst.v5/sst.mnmean.nc"
+wget -q -O url_cld "https://psl.noaa.gov/thredds/dodsC/Datasets/icoads/2degree/enh/cldc.mean.nc"
+wget -q -O url_pdsi "https://psl.noaa.gov/thredds/dodsC/Datasets/dai_pdsi/pdsi.mon.mean.selfcalibrated.nc"
+wget -q -O url_slp "https://psl.noaa.gov/thredds/dodsC/Datasets/icoads/2degree/enh/slp.mean.nc"
 
