@@ -1,1 +1,1 @@
-wget -q -O sst.nc "ftp://ftp.cdc.noaa.gov/Datasets/noaa.ersst.v5/sst.mnmean.nc"
+! wget -q -O sst.nc "ftp://ftp.cdc.noaa.gov/Datasets/noaa.ersst.v5/sst.mnmean.nc"
