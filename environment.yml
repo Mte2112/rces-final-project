@@ -7,8 +7,6 @@ dependencies:
   - xarray
   - matplotlib
   - scipy
-  - datetime
   - IPython
   - cftime
   - cartopy
-  - warnings
