@@ -10,4 +10,4 @@ dependencies:
   - IPython
   - cftime
   - cartopy
-  - netcdf4
+  - netCDF4
